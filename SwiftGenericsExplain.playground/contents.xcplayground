@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='14.4 プロトコル指向とは'/>
+        <page name='14.1 ジェネリクスの概要'/>
+        <page name='14.2 ジェネリック関数の定義'/>
+        <page name='14.3 ジェネリクスによる型定義'/>
+    </pages>
+</playground>
