@@ -1,2 +1,2 @@
 # learn-swift
-Genericやprotocolに関してまとめてあります。
+Genericやprotocolに関してまとめてあります。Operatorとかに関しても。
