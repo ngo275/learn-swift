@@ -4,4 +4,4 @@ Operatorとかに関しても書いてあります。
 
 ## SwiftStudy.playground
 
-check `Render Documentation`
+`Render Documentation` をオンにするとMarkdownになります。
